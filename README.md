@@ -12,18 +12,6 @@ I am a Computer Science student at the University of Waterloo hoping to become a
 ---
 [![](https://visitcount.itsvg.in/api?id=imanahsannn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**imanahsannn/imanahsannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Languages, Frameworks & Technologies: Python, C++, Java, Javascript, HTML/CSS, React, Android Studio, AWS
 - 📫 How to reach me: iahsan@uwaterloo.ca
 - 😄 Pronouns: She/Her
--->
