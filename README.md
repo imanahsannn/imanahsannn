@@ -1,5 +1,4 @@
 ### Hi I'm Iman 👋
-# 💫 About Me:
 I am a Computer Science student at the University of Waterloo hoping to become a software engineer
 
 - 💬 Languages, Frameworks & Technologies: Python, C++, Java, Javascript, HTML/CSS, React, Android Studio, AWS
